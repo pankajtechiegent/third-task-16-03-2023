@@ -1,0 +1,16 @@
+.container{
+    width: 800px;
+    height: 600px;
+    background-color:white;
+  align-items: center;
+    color:blue;
+    display: flex;
+    border-radius: 50px;
+    margin: 330px;
+    margin-left: 600px;
+    padding: 253px;
+}
+.ser{
+   
+}
+
